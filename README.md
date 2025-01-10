@@ -14,10 +14,8 @@
 ## Skills
 
 ### Programming Languages
-- Python
 - JavaScript
-- Java
-- C++
+- TypeScript
 
 ### Web Development
 - HTML/CSS
