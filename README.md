@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about anything related to web development and software engineering.
 - 📫 How to reach me: [workwithmanojsravan@gmail.com](mailto:workwithmanojsravan@gmail.com)
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## Skills
