@@ -1,91 +1,41 @@
-
 # Hi there, I'm Manoj Sravan 👋
 
-## About Me
+I'm a passionate developer with a knack for solving complex problems and building innovative solutions. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning new programming languages and technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced algorithms and data structures.
-- 💬 Ask me about anything related to web development and software engineering.
-- 📫 How to reach me: [workwithmanojsravan@gmail.com](mailto:workwithmanojsravan@gmail.com)
-- ⚡ Fun fact: I love hiking and exploring new places.
+## 🔭 What I'm Currently Working On
+- Building scalable web applications using modern technologies.
+- Exploring the world of AI and machine learning.
+- Contributing to open-source projects.
 
-## Skills
+## 🌱 What I'm Learning
+- Advanced algorithms and data structures.
+- Deep learning and neural networks.
+- Cloud computing and DevOps practices.
 
-### Programming Languages
-- JavaScript
-- TypeScript
+## 👯 What I'm Looking To Collaborate On
+- Open-source projects that make a difference.
+- Innovative startups and tech communities.
+- Research projects in AI and machine learning.
 
-### Web Development
-- HTML/CSS
-- React.js
-- Next.js
-- Tailwind CSS
-- Material-UI
-- Node.js
-- Express.js
-- WebSockets (Socket.IO)
-- REST APIs
-- Microservices Architecture
+## 💬 Ask Me About
+- Full-stack web development.
+- Best practices in software engineering.
+- Tips and tricks for coding and productivity.
 
-### Database Management
-- PostgreSQL
-- MongoDB
-- Prisma ORM
+## 📫 How To Reach Me
+- Email: manoj.sravan@example.com
+- LinkedIn: [Manoj Sravan](https://www.linkedin.com/in/manojsravan)
+- Twitter: [@ManojSravan](https://twitter.com/ManojSravan)
 
-### DevOps & Version Control
-- Docker
-- Git & GitHub
-- Bitbucket
-- CI/CD pipelines (GitHub Actions)
+## ⚡ Fun Fact
+I love hiking and exploring nature. When I'm not coding, you can find me on a trail or planning my next adventure!
 
-### Tools & Technologies
-- Redis
-- Memcached
-- AWS
-- Agile & Scrum
+## 📊 GitHub Stats
+![Manoj Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojSravan&show_icons=true&theme=radical)
 
-## Work History
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojSravan&layout=compact&theme=radical)
 
-### Full-Stack Developer  
-**Qubicgen Software Solutions Pvt Ltd** — May 2024 – Present  
-- Spearheaded the optimization of backend architecture for Qubicgen’s portfolio website, enhancing performance and scalability by 40%.
-- Designed and deployed a robust Employee Management System with role-based access controls, streamlining administrative operations and reducing workload by 25%.
-- Integrated APIs and caching layers using Memcached and Redis, achieving a 30% reduction in latency.
-- Improved backend processing pipelines, enhancing response times by 20% across critical operations.
-- Currently leading the development of a high-traffic Learning Management System (LMS) tailored for multi-role functionality.
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=ManojSravan&theme=radical)
 
-### Backend Developer  
-**Melody Mocktail** — July 2024 – September 2024  
-- Developed and maintained scalable RESTful APIs using TypeScript, Express.js, and MongoDB.
-- Conducted comprehensive end-to-end API testing to ensure functionality, performance, and reliability.
-- Contributed to a microservices architecture initiative, enhancing scalability and maintainability by 35%.
-- Optimized database query structures, reducing API response times by 20% and improving application performance.
-
-## Projects
-
-### **Qubinest (Learning Management System)** *(In Progress)*  
-- Building a microservices-driven LMS with features like role management, course tracking, and hierarchical structures.
-- Implemented a TypeScript backend leveraging Express.js, Prisma ORM, Zod validation, and PostgreSQL, improving data processing efficiency by 30%.
-- Scaled services to handle a 40% increase in concurrent traffic under production workloads.
-
-### **Employee Management System**  
-- Created a MERN-stack-based employee management tool, streamlining HR operations and boosting organizational performance by 25%.
-- Designed high-performance RESTful APIs, reducing data retrieval times by 40% and enhancing user experience.
-- Improved UX/UI, reducing user errors by 20% and increasing overall engagement.
-
-## Education
-
-**Bachelor of Technology in Civil Engineering**  
-Srinivasa Ramanujan Institute of Technology, Anantapur, Andhra Pradesh — September 2019 – April 2023
-
-## GitHub Stats
-
-![ManojSravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojSravan&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ManojSravan)
-- [Twitter](https://twitter.com/ManojSravan)
-
-
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
